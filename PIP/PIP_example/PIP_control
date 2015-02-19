@@ -1,7 +1,0 @@
-_guideTreeFile ./PIP_example/guide_tree
-_dataFile ./PIP_example/counts
-_treesFile ./PIP_example/trees_sample
-_baseNum 9
-_paramTemplates ./param_templates/
-_outDir ./PIP_example/PIP_out
-_chromevolExe ./chromEvol

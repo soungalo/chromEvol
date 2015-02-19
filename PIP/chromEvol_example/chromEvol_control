@@ -1,6 +1,0 @@
-_mainType All_Models
-_outDir chromEvol_example/chromEvol_out
-_dataFile chromEvol_example/counts
-_treeFile chromEvol_example/tree
-_maxChrNum -10
-
